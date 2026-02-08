@@ -1,4 +1,4 @@
-# OmahaShareHub
+#ShareHub
 
 A two-sided marketplace platform connecting property owners with service providers and contractors. Property owners post projects with photos, descriptions, locations, and pricing. Providers search, filter, and bid on available work. The platform includes secure messaging, escrow payments, mutual reviews, scheduling, and map-based project discovery.
 
